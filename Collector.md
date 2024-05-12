@@ -1,0 +1,1 @@
+The idea behind this class is to set up a Log Collector that collects logs from all [[Proxy|proxies]]. It will handle the whole communication with the [[Stream|sink]] to send the entries. It will also discard entries that doesn't match the minimum logging level.
